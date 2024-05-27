@@ -5,15 +5,15 @@ const siteMetadata = {
   description: '分享大数据学习资料和教程。',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://maqib.cn',
+  siteUrl: 'https://bigdata-info.vercel.app/',
   siteRepo: 'https://github.com/zhugezifang',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'xiaoqiu2017wy@163.com',
   github: 'https://github.com/zhugezifang',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  juejin: 'https://juejin.cn/user/4019470243477597',
+  zhihu: 'https://www.zhihu.com/people/zhugezifang',
   locale: 'zh-CN',
   welcome: '自在，轻盈，我本不想停留',
   analytics: {
